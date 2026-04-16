@@ -1,6 +1,8 @@
 public class TestWIP {
     public static void printWIPMessage(){  
-        System.debug('dev1 dev1 dev1 dev1 miguel miguel miguel subha subha subha');
+        System.debug('Subha Testing New Method');
+        System.debug('Subha Pal Advance Custom');
+        
     }
     
     public static void anotherFunction() {
