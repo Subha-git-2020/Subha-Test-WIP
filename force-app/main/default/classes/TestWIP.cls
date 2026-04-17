@@ -1,7 +1,7 @@
 public class TestWIP {
     public static void printWIPMessage(){  
-        System.debug('Subha Final test');
-        System.debug('Subha Final Test Advance');
+        System.debug('Subha Test on Friday');
+        System.debug('Subha testing Friday Advance');
         
     }
     
