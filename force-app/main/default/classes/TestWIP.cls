@@ -1,6 +1,9 @@
 public class TestWIP {
     public static void printWIPMessage(){  
-        System.debug('dev1 dev1 dev1 dev1 miguel miguel miguel subha subha subha');
+        System.debug('Subha Test on Friday');
+        System.debug('Subha testing Friday Advance');
+        System.debug('Subha ET');
+        
     }
     
     public static void anotherFunction() {
