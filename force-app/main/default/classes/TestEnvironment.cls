@@ -1,5 +1,6 @@
 public class TestEnvironment {
     public static void testReplaceByEnvvar(){
-        System.debug('hello Naman\'s');
+        // hello {!Environment.TestNamanChange}
+        System.debug('hello world');
     }
 }
