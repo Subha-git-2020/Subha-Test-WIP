@@ -15,6 +15,16 @@
         <default>false</default>
         <label>Global value 3</label>
     </customValue>
+    <customValue>
+        <fullName>Global value 4</fullName>
+        <default>false</default>
+        <label>Global value 4</label>
+    </customValue>
+    <customValue>
+        <fullName>Global value 5</fullName>
+        <default>false</default>
+        <label>Global value 5</label>
+    </customValue>
     <masterLabel>Semantic Merge Global Values</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
