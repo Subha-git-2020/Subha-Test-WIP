@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Test_Semantic_Merge_Same_Value__c</fullName>
+    <label>Test Semantic Merge Same Value</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Value 3</fullName>
+                <default>false</default>
+                <label>Value 3</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
