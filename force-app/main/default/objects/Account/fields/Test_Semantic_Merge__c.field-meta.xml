@@ -2,7 +2,12 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Test_Semantic_Merge__c</fullName>
     <label>Test Semantic Merge</label>
+    <length>0</length>
+    <precision>0</precision>
+    <relationshipOrder>0</relationshipOrder>
     <required>false</required>
+    <scale>0</scale>
+    <startingNumber>0</startingNumber>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Picklist</type>
     <valueSet>
@@ -14,6 +19,12 @@
                 <default>false</default>
                 <label>Value1</label>
             </value>
+            <value>
+                <fullName>Value 2</fullName>
+                <default>false</default>
+                <label>Value 2</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
+    <visibleLines>0</visibleLines>
 </CustomField>
