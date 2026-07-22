@@ -9,5 +9,6 @@ public class TestWIP {
     
     public static void anotherFunction() {
         // Placeholder
+        System.debug('Hi 22nd July');
     }
 }
