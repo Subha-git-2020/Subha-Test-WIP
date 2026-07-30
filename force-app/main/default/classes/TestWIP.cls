@@ -1,5 +1,5 @@
 public class TestWIP {
-    public static void printWIPMessage(){
+    public static void printWIPMessage(){  
         System.debug('Subha Test on Wednesday for Clean PR');
         System.debug('Subha Test on Friday');
         System.debug('Subha testing Friday Advance');
@@ -10,7 +10,6 @@ public class TestWIP {
     public static void function3(){
         System.debug('Hello 3');
     }
-    
     
     public static void anotherFunction() {
         // Placeholder
