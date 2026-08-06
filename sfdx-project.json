@@ -7,6 +7,6 @@
   ],
   "name": "Subha Test WIP",
   "namespace": "",
-  "sfdcLoginUrl": "https://test.salesforce.com",
+  "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "67.0"
 }
