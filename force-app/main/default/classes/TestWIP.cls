@@ -6,4 +6,8 @@ public class TestWIP {
     public static void anotherFunction() {
         // Placeholder
     }
+
+    public static void anotherFunctionInMain(){
+        System.debug('This is a change directly in main branch');
+    }
 }
