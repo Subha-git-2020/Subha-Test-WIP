@@ -30,4 +30,8 @@ public class TestWIP {
     public static void functionCreatedInUS0061066for5thCommit(){
         System.debug('This is a change made in US-0061066 fifth commit');
     }
+    
+    public static void functionCreatedInUS0061066for6thCommit(){
+        System.debug('This is a change made in US-0061066 sixth commit');
+    }
 }
