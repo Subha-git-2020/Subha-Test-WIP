@@ -14,4 +14,8 @@ public class TestWIP {
     public static void functionCreatedInUS0061066(){
         System.debug('This is a change made in US-0061066');
     }
+
+    public static void functionCreatedInUS0061066for2ndCommit(){
+        System.debug('This is a change made in US-0061066 second commit');
+    }
 }
