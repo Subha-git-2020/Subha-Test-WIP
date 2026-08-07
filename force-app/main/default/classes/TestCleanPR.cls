@@ -11,4 +11,9 @@ public class TestCleanPR {
     public static void anotherFunction() {
         // Placeholder
     }
+
+    public static void cleanPrFunction() {
+        // Placeholder
+        System.debug('This is a direct commit in the main branch to test clean PR via CLI');
+    }
 }
