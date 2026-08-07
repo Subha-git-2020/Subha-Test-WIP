@@ -11,4 +11,8 @@ public class TestCleanPR {
     public static void anotherFunction() {
         // Placeholder
     }
+
+    public static void functioninFeatureBranch() {
+        System.debug('Function in feature branch');
+    }   
 }
