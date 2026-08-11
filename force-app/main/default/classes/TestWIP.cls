@@ -1,14 +1,59 @@
 public class TestWIP {
     public static void printWIPMessage(){  
-        System.debug('Subha Test on Wednesday for Clean PR');
-        System.debug('Subha Test on Friday');
-        System.debug('Subha testing Friday Advance');
-        System.debug('Subha ET');
-        
+        System.debug('dev1 dev1 dev1 dev1 miguel miguel miguel subha subha subha');
     }
     
     public static void anotherFunction() {
         // Placeholder
-        System.debug('Hi 22nd July');
     }
+
+    public static void anotherFunctionInMain(){
+        System.debug('This is a change directly in main branch');
+    }
+
+    public static void functionCreatedInUS0061066(){
+        System.debug('This is a change made in US-0061066');
+    }
+
+    public static void functionCreatedInUS0061066for2ndCommit(){
+        System.debug('This is a change made in US-0061066 second commit');
+    }
+
+    public static void functionCreatedInUS0061066for3rdCommit(){
+        System.debug('This is a change made in US-0061066 third commit');
+    }
+
+    public static void functionCreatedInUS0061066for4thCommit(){
+        System.debug('This is a change made in US-0061066 fourth commit');
+    }
+
+    public static void functionCreatedInUS0061066for5thCommit(){
+        System.debug('This is a change made in US-0061066 fifth commit');
+    }
+    
+    public static void functionCreatedInUS0061066for6thCommit(){
+        System.debug('This is a change made in US-0061066 sixth commit');
+    }
+
+    public static void functionCreatedInUS0061066for7thCommit(){
+        System.debug('This is a change made in US-0061066 seventh commit');
+    }
+
+    public static void functionCreatedInUS0061066for8thCommit(){
+        System.debug('This is a change made in US-0061066 eighth commit');
+    }
+
+    public static void functionCreatedInUS0061066for9thCommit(){
+        System.debug('This is a change made in US-0061066 ninth commit');
+    }
+
+    public static void functionCreatedInUS0061066for10thCommit(){
+        System.debug('This is a change made in US-0061066 tength commit');
+    }
+
+    public static void functionCreatedInUS0061066for11thCommit(){
+        System.debug('This is a change made in US-0061066 eleventh commit');
+    }
+
+
 }
