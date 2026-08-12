@@ -44,6 +44,6 @@ public class TestWIP {
     }
 
     public static void myNinthFunctionForCleanPR(){
-        System.debug('this is ninth function');
+        System.debug('this is ninth function modified');
     }
 }
