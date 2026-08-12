@@ -38,4 +38,8 @@ public class TestWIP {
     public static void mySeventhFunctionForCleanPR(){
         System.debug('this is seventh function');
     }
+
+    public static void myEigthFunctionForCleanPR(){
+        System.debug('this is eigth function');
+    }
 }
