@@ -39,4 +39,16 @@ public class TestWIP {
     public static void myFifthFunctionForCleanPR(){
     System.debug('this is fifth function');
     }
+
+    public static void mySixthFunctionForCleanPR(){
+        System.debug('this is sixth function');
+    }
+
+    public static void mySeventhFunctionForCleanPR(){
+        System.debug('this is seventh function');
+    }
+
+    public static void myEigthFunctionForCleanPR(){
+        System.debug('this is eigth function');
+    }
 }
