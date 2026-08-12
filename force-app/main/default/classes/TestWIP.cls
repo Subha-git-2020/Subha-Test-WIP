@@ -20,11 +20,15 @@ public class TestWIP {
         System.debug('This is a change directly in main branch');
     }
 
-    public static void testfunctionforCleanPrOne(){
-        System.debug('this is cli clean pr function one');
+    public static void myFirstFunctionForCleanPR(){
+        System.debug('this is first function');
     }
 
-    public static void testfunctionforCleanPrTwo(){
-        System.debug('this is cli clean pr function two');
+    public static void mysecondFunctionForCleanPR(){
+        System.debug('this is second function');
+    }
+
+    public static void myThirdFunctionForCleanPR(){
+        System.debug('this is third function');
     }
 }
