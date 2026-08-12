@@ -1,5 +1,3 @@
 {
-  "org-instance-url": "https://copado315-dev-ed.develop.my.salesforce.com",
-  "org-api-version": "66.0",
-  "target-org": "spal@copado.com.dev4.envsync"
+  "target-org": "envsync-dxdani@copado.com"
 }
