@@ -22,4 +22,8 @@ public class TestWIP {
     public static void myThirdFunctionForCleanPR(){
         System.debug('this is third function');
     }
+
+    public static void myFourthFunctionForCleanPR(){
+        System.debug('this is fourth function');
+    }
 }
