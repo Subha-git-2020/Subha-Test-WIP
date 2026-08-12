@@ -15,5 +15,7 @@ public class TestWIP {
         System.debug('this is cli clean pr function one');
     }
 
-
+    public static void testfunctionforCleanPrTwo(){
+        System.debug('this is cli clean pr function two');
+    }
 }
