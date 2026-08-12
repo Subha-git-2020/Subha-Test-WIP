@@ -14,5 +14,9 @@ public class TestWIP {
     public static void testCleanPRFunctionsOne(){
         System.debug('This is function one in TestWIP');
     }
+
+    public static void testCleanPRFunctionsTwo(){
+        System.debug('This is function two in TestWIP');
+    }
     
 }
