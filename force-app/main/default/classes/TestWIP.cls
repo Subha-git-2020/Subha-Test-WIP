@@ -51,4 +51,8 @@ public class TestWIP {
     public static void myEigthFunctionForCleanPR(){
         System.debug('this is eigth function');
     }
+
+    public static void myNinthFunctionForCleanPR(){
+        System.debug('this is ninth function');
+    }
 }
