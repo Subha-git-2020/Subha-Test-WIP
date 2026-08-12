@@ -10,4 +10,9 @@ public class TestWIP {
     public static void anotherFunctionInMain(){
         System.debug('This is a change directly in main branch');
     }
+
+    public static void testCleanPRFunctionsOne(){
+        System.debug('This is function one in TestWIP');
+    }
+    
 }
