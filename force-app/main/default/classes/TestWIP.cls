@@ -18,4 +18,8 @@ public class TestWIP {
     public static void mysecondFunctionForCleanPR(){
         System.debug('this is second function');
     }
+
+    public static void myThirdFunctionForCleanPR(){
+        System.debug('this is third function');
+    }
 }
