@@ -55,4 +55,9 @@ public class TestWIP {
     public static void myNinthFunctionForCleanPR(){
         System.debug('this is ninth function modified again');
     }
+
+    public static void myTenthFunctionForCleanPR(){
+        System.debug('this is tenth function modified again');
+    }
+
 }
