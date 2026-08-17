@@ -18,6 +18,6 @@ public class TestCleanPR {
     }
 
     public static void anotherCleanPrFunction(){
-         System.debug('This is another 2 direct commit in the main branch to test clean PR via CLI');
+         //TestCleanPrWithConflict
     }
 }
