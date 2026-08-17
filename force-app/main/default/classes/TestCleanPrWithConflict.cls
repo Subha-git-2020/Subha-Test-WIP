@@ -4,6 +4,6 @@ Public with sharing Class TestCleanPrWithConflict {
     }
 
     public static void printNameInCleanPRInDevCli(){
-        System.debug('Wehave changes in the CLI from dev on 17th Aug');
+        System.debug('Wehave changes in the CLI from dev on 17th Aug , this is second commit');
     }
 }
