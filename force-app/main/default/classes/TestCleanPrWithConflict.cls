@@ -8,6 +8,6 @@ Public with sharing Class TestCleanPrWithConflict {
     }
 
     public static void printNameInCleanPRInDevCli3rd(){
-        System.debug('Wehave changes in the CLI from dev on 17th Aug ,this is seventh commit single commit');
+        System.debug('Wehave changes in the CLI from dev on 17th Aug ,this is direct on isolation/feature/US-0061075 commit single commit');
     }
 }
