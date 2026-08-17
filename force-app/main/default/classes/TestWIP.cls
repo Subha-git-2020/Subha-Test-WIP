@@ -6,22 +6,4 @@ public class TestWIP {
         System.debug('Subha ET');
         
     }
-    
-    public static void function3(){
-        System.debug('Hello 3');
-    }
-    
-    public static void function4(){
-        System.debug('Hello 4');
-    }
-    
-    
-    public static void anotherFunction() {
-        // Placeholder
-        System.debug('Hi 22nd July');
-    }
-
-    public static void anotherFunctionInMain(){
-        System.debug('This is a change directly in main branch');
-    }
 }
