@@ -22,6 +22,6 @@ public class TestWIP {
     }
 
     public static void anotherFunctionInMain(){
-        System.debug('This is a change directly in main branch');
+        System.debug('This is a change directly in main branch isolation/feature/US-0061074');
     }
 }
