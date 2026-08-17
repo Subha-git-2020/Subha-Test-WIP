@@ -1,17 +1,23 @@
 public class TestWIP {
-    public static void printWIPMessage(){  
-        System.debug('dev1 dev1 dev1 dev1 miguel miguel miguel subha subha subha');
+    public static void printWIPMessage(){
+        System.debug('Subha Test on Wednesday for Clean PR');
+        System.debug('Subha Test on Friday');
+        System.debug('Subha testing Friday Advance');
+        System.debug('Subha ET');
+        
     }
+    
+    public static void function3(){
+        System.debug('Hello 3');
+    }
+    
+    public static void function4(){
+        System.debug('Hello 4');
+    }
+    
     
     public static void anotherFunction() {
         // Placeholder
-    }
-
-    public static void anotherFunctionInMain(){
-        System.debug('This is a change directly in main branch');
-    }
-
-    public static void anotherFunctionInMain2(){
-        System.debug('This is a change directly in main branch on 14th August');
+        System.debug('Hi 22nd July');
     }
 }
