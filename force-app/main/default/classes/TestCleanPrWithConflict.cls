@@ -1,5 +1,5 @@
 Public with sharing Class TestCleanPrWithConflict {
     public static void printNameInCleanPR(){
-        System.debug('August 14th 2--@@@@@');
+        System.debug('Wehave changes in the main branch 17th Aug 2026 for TestCleanPrWithConflict');
     }
 }
