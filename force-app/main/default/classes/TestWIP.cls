@@ -7,6 +7,15 @@ public class TestWIP {
         
     }
     
+    public static void function3(){
+        System.debug('Hello 3');
+    }
+    
+    public static void function4(){
+        System.debug('Hello 4');
+    }
+    
+    
     public static void anotherFunction() {
         // Placeholder
         System.debug('Hi 22nd July');
