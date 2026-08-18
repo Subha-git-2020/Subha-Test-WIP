@@ -1,6 +1,5 @@
 Public with sharing Class TestCleanPrWithConflict {
     public static void printNameInCleanPR(){
-        System.debug('August 14th 2--@@@@@ edited in subha dev');
-        System.debug('August 17tth Aug');
+        // here is direct change in dev1 branch for conflict
     }
 }
