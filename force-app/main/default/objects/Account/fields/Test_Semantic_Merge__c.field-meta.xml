@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>CustomerPriority__c</fullName>
-    <label>Customer Priority Edited in Main</label>
+    <fullName>Test_Semantic_Merge__c</fullName>
+    <label>Test Semantic Merge</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Picklist</type>
     <valueSet>
+        <restricted>true</restricted>
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>High</fullName>
+                <fullName>Value1</fullName>
                 <default>false</default>
-                <label>High</label>
+                <label>Value1</label>
             </value>
             <value>
-                <fullName>Low</fullName>
+                <fullName>Value 2</fullName>
                 <default>false</default>
-                <label>Low</label>
-            </value>
-            <value>
-                <fullName>Medium</fullName>
-                <default>false</default>
-                <label>Medium</label>
+                <label>Value 2</label>
             </value>
         </valueSetDefinition>
     </valueSet>

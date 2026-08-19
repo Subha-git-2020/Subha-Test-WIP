@@ -1,4 +1,7 @@
 {
-  "defaultusername": "spal@copado.com.dev3.envsync",
-  "apiVersion": "64.0"
+  "createdBy": "sfdx_commit_e2e_test",
+  "createdAt": "2026-04-07T09:28:18.671Z",
+  "instanceUrl": "https://copado323-dev-ed.develop.my.salesforce.com",
+  "apiVersion": "67.0",
+  "defaultusername": "spal@copado.com.dev3.envsync"
 }

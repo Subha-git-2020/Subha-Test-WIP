@@ -1,4 +1,7 @@
 {
-  "target-org": "spal@copado.com.dev3.envsync",
-  "org-api-version": "64.0"
+  "createdBy": "sfdx_commit_e2e_test",
+  "createdAt": "2026-04-07T09:28:18.671Z",
+  "org-instance-url": "https://copado323-dev-ed.develop.my.salesforce.com",
+  "org-api-version": "67.0",
+  "target-org": "spal@copado.com.dev3.envsync"
 }
