@@ -12,7 +12,7 @@ private class TestCleanPrWithConflictTest {
 
         // Then: method executes without exceptions and produces a debug log entry.
         // No return value to assert; coverage and exception-free execution are the goals.
-        System.assert(true, 'printNameInCleanPR should complete without throwing an exception.');
+        System.assert(true, 'printNameInCleanPR should complete without throwing an exception added on 3rd sep.');
     }
 
     // ─── Tests for newMethodInClass ──────────────────────────────────────────
