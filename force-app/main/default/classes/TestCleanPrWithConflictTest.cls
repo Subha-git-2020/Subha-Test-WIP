@@ -1,7 +1,7 @@
 @IsTest
 private class TestCleanPrWithConflictTest {
 
-    // ─── Tests for printNameInCleanPR ──────────────────────────────────────── modified in the UAT directly on 3rd sep
+    // ─── Tests for printNameInCleanPR ────────────────────────────────────────
 
     @IsTest
     static void testPrintNameInCleanPR() {

@@ -1,6 +1,6 @@
 Public with sharing Class TestCleanPrWithConflict {
     public static void printNameInCleanPR(){
-        System.debug('September 3rd  modified in UAT directly for conflict on 8th sep');
+        System.debug('August 31st edited in dev1');
     }
     
     public static void newMethodInClass(){
