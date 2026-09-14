@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Global Value 1</fullName>
+        <default>false</default>
+        <label>Global Value 1</label>
+    </customValue>
+    <customValue>
+        <fullName>Global Value 2</fullName>
+        <default>false</default>
+        <label>Global Value 2</label>
+    </customValue>
+    <customValue>
+        <fullName>Global value 3</fullName>
+        <default>false</default>
+        <label>Global value 3</label>
+    </customValue>
+    <customValue>
+        <fullName>Global value 4</fullName>
+        <default>false</default>
+        <label>Global value 4</label>
+    </customValue>
+    <customValue>
+        <fullName>Global value 5</fullName>
+        <default>false</default>
+        <label>Global value 5</label>
+    </customValue>
+    <masterLabel>Semantic Merge Global Values</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
