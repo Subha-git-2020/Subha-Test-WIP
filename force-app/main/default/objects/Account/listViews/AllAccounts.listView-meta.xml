@@ -23,10 +23,5 @@
         <operation>lessOrEqual</operation>
         <value>10000</value>
     </filters>
-    <filters>
-        <field>ACCOUNT.SALES</field>
-        <operation>greaterThan</operation>
-        <value>100</value>
-    </filters>
     <label>All Accounts</label>
 </ListView>
