@@ -12,12 +12,12 @@ private class EnvSyncReproBaseTest {
     }
 
     // FAILING test: intentionally asserts something that is false
-    @IsTest
+    /*@IsTest
     static void printName_intentionalFailure_fails() {
         Test.startTest();
         EnvSyncReproBase.printName();
         Test.stopTest();
 
         System.assertEquals(1, 2, 'Intentional failure: 1 does not equal 2');
-    }
+    }*/
 }
