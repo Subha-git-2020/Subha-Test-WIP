@@ -5,5 +5,7 @@ Public with sharing Class TestConflictResolutionMessageFive {
         System.debug('I am testing conflict resolution message');
         System.debug('I am testing conflict resolution message 3rd sep');
         System.debug('I am testing clean pr on 6th nov in dev1');
+        System.debug('I am testing clean pr on 6th nov in dev1 another method');
+
     }
 }
