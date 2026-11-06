@@ -6,4 +6,8 @@ Public with sharing Class TestCleanPrWithConflict {
     public static void newMethodInClass(){
         System.debug('added in new in dev1 org');
     }
+
+    public static void newMethodCreatedInMain(){
+        System.debug('added in new in main');
+    }
 }
