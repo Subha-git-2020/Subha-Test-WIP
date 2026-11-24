@@ -2,7 +2,7 @@ Public with sharing Class TestConflictResolutionMessage {
     public static void printName(){
         System.debug('This is on 17th Aug 2026 changes in dev1 for conflict');  
         System.debug('This is on 31st Aug 2026 changes in dev1');
-        System.debug('This is on 24th nov 2026 changes in UAT'); 
+        System.debug('This is on 8th Sep 2026 changes in dev1'); 
              
     }
 }
