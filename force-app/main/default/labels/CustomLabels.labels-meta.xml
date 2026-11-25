@@ -26,6 +26,6 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Test 4</shortDescription>
-        <value>tst 4 value</value>
+        <value>Test 4 for split function test</value>
     </labels>
 </CustomLabels>
