@@ -21,4 +21,11 @@
         <shortDescription>Test 3</shortDescription>
         <value>test value 3</value>
     </labels>
+    <labels>
+        <fullName>Test_4</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test 4</shortDescription>
+        <value>Test 4 for split function test</value>
+    </labels>
 </CustomLabels>
