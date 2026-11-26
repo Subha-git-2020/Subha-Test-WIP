@@ -1,7 +1,7 @@
 @IsTest
 private class TestCleanPrWithConflictTest {
 
-    // ─── Tests for printNameInCleanPR ────────────────────────────────────────
+    // ─── Tests for printNameInCleanPR ──────────────────────────────────────── modified in the UAT directly on 3rd sep
 
     @IsTest
     static void testPrintNameInCleanPR() {
@@ -10,9 +10,9 @@ private class TestCleanPrWithConflictTest {
         TestCleanPrWithConflict.printNameInCleanPR();
         Test.stopTest();
 
-        // Then: method executes without exceptions and produces a debug log entry.
+        // Then: method executes without exceptions and produces a debug log entry. Added the comment here in the UAT branch for conflict
         // No return value to assert; coverage and exception-free execution are the goals.
-        System.assert(true, 'printNameInCleanPR should complete without throwing an exception.');
+        System.assert(true, 'printNameInCleanPR should complete without throwing an exception added on 3rd sep.');
     }
 
     // ─── Tests for newMethodInClass ──────────────────────────────────────────
