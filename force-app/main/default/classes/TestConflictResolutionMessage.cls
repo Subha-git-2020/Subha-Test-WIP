@@ -1,6 +1,5 @@
-Public with sharing Class TestConflictResolutionMessage {
-    public static void printName(){
-        System.debug('This change is done on 25th Nov on 2026 to test splitted promote and envsync function');  
+Public with sharing Class TestConflictResolutionMessage {    public static void printName(){
+        System.debug('This change is done on 25th Nov on 2026 to test splitted promote and envsync function');
              
     }
 }
